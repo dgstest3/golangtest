@@ -1,1 +1,0 @@
-* */1 * * * cd /usr/share/horo && /usr/share/horo/horo_up >> /tmp/horo_up.log
